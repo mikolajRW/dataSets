@@ -18,3 +18,7 @@ month.
 ii. Create bubble charts for each month based on clustering results:
 1. Each bubble will present one cluster.
 2. Bubble charts should be created per each month.
+
+
+
+LINK TO THE IMPLEMENTATION: https://colab.research.google.com/drive/1EdN_ryhdBtWUTM9U2kVarTJuINfcN5u-?usp=sharing
